@@ -12,7 +12,7 @@ This is a breakdown of the data for the predetermined time. This shows how many 
 
 ![Table1](https://github.com/jugvirpabla/PyBer_Analysis/blob/master/analysis/Table1.png)
 
-The Rural city type had the lowest number of total rides, drivers, and fares, but the averages are higher compared to the other city types. This could be the places are father apart in rural cities, thus creating farther rider distances and more time spend in those rides. The Urban city types had the highest amount of total ride, drivers, and fares. This could be because the Urban areas have a igher population, and places are closer together. This could provide more rides for the customers, and that demand also causes the abundance of more drivers. The averages are less, according the chart, but the overall revenue for the company and the driver could be more than the Rural and Suburban city types/
+The Rural city type had the lowest number of total rides, drivers, and fares, but the averages are higher compared to the other city types. This could be the places are father apart in rural cities, thus creating farther rider distances and more time spend in those rides. The Urban city types had the highest amount of total ride, drivers, and fares. This could be because the Urban areas have a igher population, and places are closer together. This could provide more rides for the customers, and that demand also causes the abundance of more drivers. The averages are less, according the chart, but the overall revenue for the company and the driver could be more than the Rural and Suburban city types.
 
 ![Fig8](https://github.com/jugvirpabla/PyBer_Analysis/blob/master/analysis/Fig8.png)
 
