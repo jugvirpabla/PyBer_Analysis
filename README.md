@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Project Overview
-We have been asked by the CEO of PyBer, V. Isualize, to create a overall snapchat of revenue for a certain time (January - April, arranged by week) of the year varying by what city type the rides occurred in. The CEO would like the data presented to her in a line graph showing all the city types on the same chart with all the corresponding information.
+We have been asked by the CEO of PyBer, V. Isualize, to create an overall snapchat of revenue for a certain time (January - April, arranged by week) of the year varying by what city type the rides occurred in. The CEO would like the data presented to her in a line graph showing all the city types on the same chart with all the corresponding information.
 
 ## Resources
 - Data Sources: city_data.csv, ride_data.csv
