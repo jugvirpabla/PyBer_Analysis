@@ -8,7 +8,7 @@ We have been asked by the CEO of PyBer, V. Isualize, to create an overall snapch
 - Software: Jupyter Notebooks, Python, Pandas, Numpy, Matplotlib, Statistics
 
 ## Summary
-This is a breakdown of the data for the predetermined time frame. This shows how many rides, total drivers, and the averages for ride and how the driver made, sorted by the index of city types.
+This is a breakdown of the data for the predetermined time frame. This table shows how many rides, total drivers, and the averages for ride and how the driver made, sorted by the index of city types.
 
 ![Table1](https://github.com/jugvirpabla/PyBer_Analysis/blob/master/analysis/Table1.png)
 
